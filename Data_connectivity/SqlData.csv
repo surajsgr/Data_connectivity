@@ -1,0 +1,26 @@
+employee_ID,employee_name,employee_salary,designation
+1,Adam,20000, Quality analyst
+2,Bob,25000,Business analyst
+3,Charis,19000,Quality analyst
+4,Cherry,28000,Technical support
+5,Devid,26000,Network engineer.
+6,Dannis,25000,Technical consultant
+7,Angle,30000,Web developer
+8,Lisa,32000,IT Coordinator
+9,Kattie,28000,Network Administrator
+10,Feroj,35000,DBA
+11,Ginni,37000,Network Architect
+12,Harry,38000,Network Engineer
+13,Luther,19000,Quality analyst
+14,Maria,20000,Business analyst
+15,Nancy,40000,Network Architect
+16,Naina,45000,IT Manager
+17,Muskan,50000,IT Director
+18,Jayant,24000,Software engineer
+19,Jessie,29000,Business analyst
+20,Jeff,40000,Data Scientist
+21,Martin,39000,Network Administrator
+22,Inayat,40000,Data Scientist
+23,Anant,45000,IT Manager
+24,Eli,29000,Business analyst
+25,Aksar,19000,Quality analyst
